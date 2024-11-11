@@ -12,41 +12,41 @@ if (match <= 10){
         let calculation = numA - numB
         return calculation
     }
-    console.log("Seu Herói tem de " + match + " de saldo Vitórias e está no nível Ferro!");
+    console.log("Your Hero has " + match + " Victory balance and is at the Iron level!");
 } else if (match <= 20 ){
     function ranked(numA, numB){
         let calculation = numA - numB
         return calculation
     }
-    console.log("Seu Herói tem de " + match + " de saldo Vitórias e está no nível Bronze!");
+    console.log("Your Hero has " + match + " Victory balance and is at the Bronze level!");
 } else if (match <= 50 ){
     function ranked(numA, numB){
         let calculation = numA - numB
         return calculation
     }
-    console.log("Seu Herói tem de " + match + " de saldo Vitórias e está no nível Prata!");
+    console.log("Your Hero has " + match + " Victory balance and is at the Silver level!");
 } else if (match <= 80 ){
     function ranked(numA, numB){
         let calculation = numA - numB
         return calculation
     }
-    console.log("Seu Herói tem de " + match + " de saldo Vitórias e está no nível Ouro!");
+    console.log("Your Hero has " + match + " Victory balance and is at the Gold level!");
 } else if (match <= 90 ){
     function ranked(numA, numB){
         let calculation = numA - numB
         return calculation
     }
-    console.log("Seu Herói tem de " + match + " de saldo Vitórias e está no nível Diamante!");
+    console.log("Your Hero has " + match + " Victory balance and is at the Diamond level!");
 } else if (match <= 100 ){
     function ranked(numA, numB){
         let calculation = numA - numB
         return calculation
     }
-    console.log("Seu Herói tem de " + match + " de saldo Vitórias e está no nível Lendário!");
+    console.log("Your Hero has " + match + " Victory balance and is at the Legendary level!");
 } else if (match >= 101 ){
     function ranked(numA, numB){
         let calculation = numA - numB
         return calculation
     }
-    console.log("Seu Herói tem de " + match + " de saldo Vitórias e está no nível Imortal!");
+    console.log("Your Hero has " + match + " Victory balance and is at the Immortal level!");
 }
