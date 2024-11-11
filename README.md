@@ -4,7 +4,7 @@
 
 🏢 **Atuação Profissional**
 - 🚀 Trabalho como **Analista de Suporte** na empresa **Focus Sistemas**
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas (ADS)
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas (ADS) - **UNICESUMAR**
 
 ### 💻 Redes Sociais 
 
@@ -18,6 +18,9 @@
 |------------|
 |[Projeto-2-IaC-Provisionamento-Servidor-WEB](https://github.com/marcusviniciusl97/Projeto-2-IaC-Provisionamento-Servidor-WEB.git)
 [Linux-Projeto-1-Infra-de-Usuarios](https://github.com/marcusviniciusl97/Linux-Projeto-1-Infra-de-Usuarios.git)
+[Calculadora-Partidas_Rankeadas-DIO](https://github.com/marcusviniciusl97/Calculadora-Partidas_Rankeadas-DIO)
+[Desafio_Boss_DIO](https://github.com/marcusviniciusl97/Desafio_Boss_DIO)
+
 
 ### 🚀 Linguagens Mais Usadas
 
